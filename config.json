@@ -1,0 +1,8 @@
+{
+    "model_name": "audreyt/Breeze-7B-Instruct-64k-v0.1-GGUF/Breeze-7B-Instruct-64k-v0.1-Q3_K_S.gguf",
+    "dataset_path": "path/to/your/dataset",
+    "output_dir": "path/to/save/model",
+    "batch_size": 16,
+    "learning_rate": 5e-5,
+    "num_train_epochs": 3
+}
