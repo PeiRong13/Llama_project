@@ -4,3 +4,5 @@
     - .\venv\Scripts\Activate
 2.安裝需要的套件
     - pip install -r requirements.txt
+
+執行LM.py前須先打開LM studio並套用**audreyt/Breeze-7B-Instruct-64k-v0.1-GGUF**的模型
